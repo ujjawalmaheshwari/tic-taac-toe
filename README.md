@@ -1,1 +1,1 @@
-# tic-taac-toe
+# Brain Trainer
